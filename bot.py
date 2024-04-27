@@ -245,7 +245,7 @@ if(in_array($from_id,$admin_m) or in_array($from_id,$admin_zm) or $from_id == $d
 api("sendMessage",[
 'chat_id' => $chat_id,
 'parse_mode' => "markdown",
-'text' => "اوامـر sσвєʀвσт 🔰⇣
+'text' => "الاوامر sσвєʀвσт 🔰⇣
 
 💠 م1 | لـعرض اوامر الحماية
 💠 م2 | لـعرض اوامر الادمنية
